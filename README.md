@@ -72,9 +72,8 @@ CONDA
 02) conda activate myenv
 03) conda install nb_conda
 04) conda install jupyter
-05) conda activate jupyter notebook
-06) jupyter notebook
-07) en el local host dirigirse a la carpeta del proyecto curso-python-data y abrir clase o notebook nuevo elegiendo el kernel con el nombre que le dimos a nuestro entorno y cliqueando en 'new'.
+05) jupyter notebook
+06) en el local host dirigirse a la carpeta del proyecto curso-python-data y abrir clase o notebook nuevo elegiendo el kernel con el nombre que le dimos a nuestro entorno y cliqueando en 'new'.
 
 Si optaste por un entorno virtual, podés seguir por acá:
 

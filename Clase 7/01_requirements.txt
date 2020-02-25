@@ -1,8 +1,13 @@
 # Notebook dependencies
-pandas # también podés instalar una versión específica si es que querés (geopandas==0.6.0)
+pandas 
 numpy
+shapely # también podés instalar una versión específica si es que querés (shapely==1.7.0)
+fiona 
+pyproj
+rtree
 geopandas
-shapely
+descartes
+geocoder
 seaborn
 matplotlib
 mplleaflet
